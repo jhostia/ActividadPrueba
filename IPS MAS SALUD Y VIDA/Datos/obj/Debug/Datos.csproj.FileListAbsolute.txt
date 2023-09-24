@@ -1,9 +1,0 @@
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\bin\Debug\Datos.dll
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\bin\Debug\Datos.pdb
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\bin\Debug\Entidades.dll
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\bin\Debug\Entidades.pdb
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\obj\Debug\Datos.csproj.CopyComplete
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\obj\Debug\Datos.dll
-C:\Users\JHONATAN\EntregaProyecto\ProyectoProgramacion\IPS MAS SALUD Y VIDA\Datos\obj\Debug\Datos.pdb
